@@ -19,9 +19,9 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
 <h3 align="left">Connect with me!</h3>
 
 <div> 
-  <a href="https://www.instagram.com/kafs_87/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff0000&color:FFF"></a>
-  <a href = "mailto:kauanferreira2917@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=ff0000"></a>
-  <a href = "https://wa.me/5511998253084"><img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=ff0000"></a>
+  <a href="https://www.instagram.com/kafs_87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff0000&color:FFF"></a>
+  <a href = "mailto:kauanferreira2917@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=ff0000"></a>
+  <a href = "https://wa.me/5511998253084" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=ff0000"></a>
   <a href="https://www.linkedin.com/in/kafs87" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff0000"></a> 
   
 </div>
