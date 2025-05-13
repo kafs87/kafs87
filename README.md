@@ -20,7 +20,6 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
 
 <div> 
   <a href="https://www.instagram.com/kafs_87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff0000&color:FFF" target="_blank"></a>
-  <a href="https://discord.gg/ycopin" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=ff0000" target="_blank"></a> 
   <a href = "mailto:kauanferreira2917@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=ff0000" target="_blank"></a>
   <a href = "mailto:kauanferreira2917@gmail.com"><img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=ff0000" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kafs87" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
