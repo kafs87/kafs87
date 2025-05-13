@@ -57,3 +57,5 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kas87/kafs87/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kafs87/kafs87/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
