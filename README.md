@@ -51,3 +51,9 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kafs87&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ff0000&hide=scss,less&bg_color=000&text_color=ff0000&border_radius=3&border_color=ff0000&count_private=true"alt="Most Used Languages">
   </a>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kafs87/kafs87/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kas87/kafs87/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kafs87/kafs87/output/github-contribution-grid-snake.svg">
+</picture>
