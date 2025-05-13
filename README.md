@@ -14,7 +14,7 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
   
 #
 
-<img align="right" alt="computer guy" height="210px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemc4b254YzY0ZWh2Y2hucDhsazZpN2Z6OGN1cnhyM3c4cGRkdnBkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DZTYMSMlfA0Gopj9m6/giphy.gif">
+<img align="right" alt="computer guy" height="205px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemc4b254YzY0ZWh2Y2hucDhsazZpN2Z6OGN1cnhyM3c4cGRkdnBkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DZTYMSMlfA0Gopj9m6/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
