@@ -14,7 +14,7 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
   
 #
 
-<img align="right" alt="computer guy" height="220px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemc4b254YzY0ZWh2Y2hucDhsazZpN2Z6OGN1cnhyM3c4cGRkdnBkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DZTYMSMlfA0Gopj9m6/giphy.gif">
+<img align="right" alt="computer guy" height="190px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemc4b254YzY0ZWh2Y2hucDhsazZpN2Z6OGN1cnhyM3c4cGRkdnBkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DZTYMSMlfA0Gopj9m6/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -29,15 +29,15 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
 <h3 align="left">~ My Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 #
