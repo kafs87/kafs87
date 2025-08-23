@@ -10,7 +10,7 @@
 
 <h3 align="center">Olá, me chamo Kauan Ferreira! 👋🏽</h3>
 <p align="center">Estudante de Engenharia de Software | UMC - Universidade de Mogi das Cruzes <br>
-Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolvimento Front-end. Estou sempre em busca de novos aprendizados e desafios, aprimorando minhas habilidades para criar soluções inovadoras e eficientes.
+Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolvimento. Estou sempre em busca de novos aprendizados e desafios, aprimorando minhas habilidades para criar soluções inovadoras e eficientes.
   
 #
 
