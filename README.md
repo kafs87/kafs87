@@ -41,21 +41,21 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
 
 #
 
-<div align="center" display="flex">
-  <h3>* GitHub Stats *</h3>
-  <br />
+<h3 align="center">* GitHub Stats *</h3>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=kafs87&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=ff0000&text_color=ffffff&border_radius=3&border_color=ff0000&icon_color=ff0000&theme=jolly"
     alt="GitHub stats" />
 
-  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafs87&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ff0000&hide=scss,less&bg_color=000000&text_color=ff0000&border_radius=3&border_color=ff0000"
+    alt="Most Used Languages" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafs87&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ff0000&hide=scss,less&bg_color=000000&text_color=ff0000&border_radius=3&border_color=ff0000"
-      alt="Most Used Languages" />
-  </a>
 </div>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kafs87/kafs87/output/github-contribution-grid-snake-dark.svg">
