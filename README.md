@@ -41,7 +41,7 @@ Atualmente, busco uma oportunidade na área de tecnologia, com foco em desenvolv
 
 #
 
-<div align="center">
+<div align="center" display="flex">
   <h3>* GitHub Stats *</h3>
   <br />
   <img
